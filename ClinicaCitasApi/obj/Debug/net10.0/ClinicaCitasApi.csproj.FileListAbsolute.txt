@@ -1,0 +1,87 @@
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.csproj.AssemblyReference.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.AssemblyInfoInputs.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.AssemblyInfo.cs
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\appsettings.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.staticwebassets.endpoints.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.exe
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.deps.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.runtimeconfig.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.pdb
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\scopedcss\bundle\ClinicaCitasApi.styles.css
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaC.CDADB8E9.Up2Date
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\refint\ClinicaCitasApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.pdb
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.genruntimeconfig.cache
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\ref\ClinicaCitasApi.dll
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.staticwebassets.runtime.json
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\mc03r8trta-{0}-dow8ynlxmj-dow8ynlxmj.gz
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\kla9esislg-{0}-bqj83gr2pb-bqj83gr2pb.gz
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\uw1z8hpvb3-{0}-t0v49p4sje-t0v49p4sje.gz
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\h7ezuh1y7t-{0}-h5xd7576f6-h5xd7576f6.gz
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\feofdag6q4-{0}-eohys04ybv-eohys04ybv.gz
+C:\Users\USER-PC\OneDrive\Escritorio\QUINTO_CICLO\DESARROLLO DE SERVICIOS WEB\EXAMEN PARCIAL\Examen_Parcial_Desarrollo_Servicios_Web\ClinicaCitasApi\obj\Debug\net10.0\compressed\oamcr5o859-{0}-5oj4mpza2h-5oj4mpza2h.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\appsettings.Development.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\appsettings.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.staticwebassets.runtime.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.staticwebassets.endpoints.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.exe
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.deps.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.runtimeconfig.json
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\ClinicaCitasApi.pdb
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.csproj.AssemblyReference.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.AssemblyInfoInputs.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.AssemblyInfo.cs
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.csproj.CoreCompileInputs.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\scopedcss\bundle\ClinicaCitasApi.styles.css
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\mc03r8trta-{0}-dow8ynlxmj-dow8ynlxmj.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\kla9esislg-{0}-bqj83gr2pb-bqj83gr2pb.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\uw1z8hpvb3-{0}-t0v49p4sje-t0v49p4sje.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\h7ezuh1y7t-{0}-h5xd7576f6-h5xd7576f6.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\feofdag6q4-{0}-eohys04ybv-eohys04ybv.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\oamcr5o859-{0}-5oj4mpza2h-5oj4mpza2h.gz
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaC.CDADB8E9.Up2Date
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\refint\ClinicaCitasApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.pdb
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ClinicaCitasApi.genruntimeconfig.cache
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\ref\ClinicaCitasApi.dll
+C:\ClinicaCitasApi\ClinicaCitasApi\obj\Debug\net10.0\compressed\1terb2voi1-{0}-0z8bqtu8ta-0z8bqtu8ta.gz
